@@ -72,11 +72,11 @@ operated a franchise business.
 
 Owned and managed a franchised LighterLife weight management consultancy. 
 
-•	Facilitated groups of up to 12 people
-•	Used basic counselling skills with Transactional Analysis and Cognitive Behavioural Therapy based activities to work on clients relationship with food
-•	Developed and executed a local marketing and advertising strategies
-•	Produced business plan along with cash flow and profit and loss forecasts
-•	Managed a team of 3
+-	Facilitated groups of up to 12 people
+-	Used basic counselling skills with Transactional Analysis and Cognitive Behavioural Therapy based activities to work on clients relationship with food
+-	Developed and executed a local marketing and advertising strategies
+-	Produced business plan along with cash flow and profit and loss forecasts
+-	Managed a team of 3
 
 
 ###Sussex Homecare
@@ -85,8 +85,8 @@ Owned and managed a franchised LighterLife weight management consultancy.
 
 Assisted vulnerable adults to remain living in the community
 
-• Developed sound communication skills and learned to build rapport
-• Helped adults maintain their dignity and autonomy by assisting with:
+- Developed sound communication skills and learned to build rapport
+- Helped adults maintain their dignity and autonomy by assisting with:
 personal care duties
 preparing meals
 household chores and shopping
