@@ -63,7 +63,7 @@ backpack so we can venture into the wild.
 Experience
 ----
 
-My background is health care, customer service and sales. I have also owned and
+My background is in health care and I have also owned and
 operated a franchise business.
 
 ###Becoming Un LTD
