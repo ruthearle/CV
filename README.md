@@ -3,21 +3,6 @@ Ruth Earle
 
 I am a junior full-stack web developer based in London. After completing a three month immersive Makers Academy web development course (August 2014 cohort) I feel ready to start my journey into creating great software.
 
-Code Examples
-----
-
-> [Fhellow]
-
-Week ten final project at Makers Academy completed by myself and three other team members. Historically final projects were based on suggestions from students and staff. Fhellow was the first project that was pitched by a client. Hosted on Heroku: [Fhellow](http://fhellow.herokuapp.com/)
-
-> [RPSLS]
-
-Week five weekend challenge to make an online version of Rock, Paper, Scissors, Lizard, Spock. This app was fully test-driven and built using JavaScript, HTML5, and CSS3. Hosted on Heroku: [RPSLS](https://rockpaperscissorslizardspockjs.herokuapp.com/)
-
-> [Take Away]
-
-Week four weekend challenge. This was a Ruby project completed after learning about SOLID principled object-orientated design, therefore I focused on single responsibility by creating many classes based on their responsibilities.
-
 Web Development
 ----
 
@@ -59,12 +44,24 @@ backpack so we can venture into the wild.
   - GitHub Flavoured Markdown
   - Deployment to Heroku
 
+#####Complete Projects
+
+> [Fhellow]
+
+Week ten final project at Makers Academy completed by myself and three other team members. Historically final projects were based on suggestions from students and staff. Fhellow was the first project that was pitched by a client. [Hosted on Heroku](http://fhellow.herokuapp.com/)
+
+> [RPSLS]
+
+Week five weekend challenge to make an online version of Rock, Paper, Scissors, Lizard, Spock. This app was fully test-driven and built using JavaScript, HTML5, and CSS3. [Hosted on Heroku](https://rockpaperscissorslizardspockjs.herokuapp.com/)
+
+> [Take Away]
+
+Week four weekend challenge. This was a Ruby project completed after learning about SOLID principled object-orientated design, therefore I focused on single responsibility by creating many classes based on their responsibilities.
 
 Experience
 ----
 
-My background is in health care and I have also owned and
-operated a franchise business.
+My background is in health care and I have also owned and operated a franchise business. However, since 2010 I have been a full-time stay at home mother of two children. 
 
 ###Becoming Un LTD
 #####Weight management consultant (Jan 2007 - Dec 2010)
@@ -72,12 +69,11 @@ operated a franchise business.
 
 Owned and managed a franchised LighterLife weight management consultancy. 
 
--	Facilitated groups of up to 12 people
--	Used basic counselling skills with Transactional Analysis and Cognitive Behavioural Therapy based activities to work on clients relationship with food
--	Developed and executed a local marketing and advertising strategies
--	Produced business plan along with cash flow and profit and loss forecasts
--	Managed a team of 3
-
+- Managed operations of the Nottingham branch including overseeing a team of 3
+- Developed and executed local marketing and advertising strategies
+- Produced the branch business plan along with cash flow and profit and loss forecasts
+- Facilitated weekly workshops of groups of up to 12 people with the goal of recognising their behaviours and creating actionable steps to change
+- Used basic counselling skills with Transactional Analysis and Cognitive Behavioural Therapy based activities to work on clients relationship with food
 
 ###Sussex Homecare
 #####Homecare assistant (Sep 2004 - Sep 2006)
@@ -85,11 +81,11 @@ Owned and managed a franchised LighterLife weight management consultancy.
 
 Assisted vulnerable adults to remain living in the community
 
-- Developed sound communication skills and learned to build rapport
-- Helped adults maintain their dignity and autonomy by assisting with:
-personal care duties
-preparing meals
-household chores and shopping
+- Due to the sensitive nature of working with this client group I developed sound communication skills and learned to build rapport
+-  Helped adults maintain their dignity and autonomy by assisting with:
+     personal care duties
+     preparing meals
+     household chores and shopping
 
 
 Education
