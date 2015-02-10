@@ -58,56 +58,66 @@ Week five weekend challenge to make an online version of Rock, Paper, Scissors, 
 
 Week four weekend challenge. This was a Ruby project completed after learning about SOLID principled object-orientated design, therefore I focused on single responsibility by creating many classes based on their responsibilities.
 
-Experience
+Key Skills
 ----
 
-My background is in health care and I have also owned and operated a franchise business. However, since 2010 I have been a full-time stay at home mother of two children. 
+####Communication
+- Twice delivered presentations to 100+ guests of Morley College Alumni
+- Facilitated weekly workshops of groups of up to 12 people with the goal of recognising their behaviours and creating actionable steps to change
+- Used basic counselling skills with Transactional Analysis and Cognitive Behavioural Therapy based activities to work on clients relationship with food
+- Developed emotional intelligence through the counselling work
+- Worked with vulnerable adults living in the community meant developing sound communication skills and rapid rapport building
+- Know to have a calming effect on a team which has helped with imminent deadlines
 
-###Becoming Un LTD
-#####Weight management consultant (Jan 2007 - Dec 2010)
-######Nottingham, UK
+####Business
 
-Owned and managed a franchised LighterLife weight management consultancy. 
-
+- Owned and managed a franchised LighterLife weight management consultancy.
 - Managed operations of the Nottingham branch including overseeing a team of 3
 - Developed and executed local marketing and advertising strategies
 - Produced the branch business plan along with cash flow and profit and loss forecasts
-- Facilitated weekly workshops of groups of up to 12 people with the goal of recognising their behaviours and creating actionable steps to change
-- Used basic counselling skills with Transactional Analysis and Cognitive Behavioural Therapy based activities to work on clients relationship with food
 
-###Sussex Homecare
-#####Homecare assistant (Sep 2004 - Sep 2006)
-######Brighton, UK
+####Customer Service/Sales
 
-Assisted vulnerable adults to remain living in the community
+- Worked in customer facing roles both face-to-face and telephone
+- Main goal, besides KPIs and sales targets, was ensuring the customer was satisfied with the communication transaction
+- Skilled in developing an understanding of client needs and delivering solutions
+- Ensured professionalism was maintained in difficult situations
 
-- Due to the sensitive nature of working with this client group I developed sound communication skills and learned to build rapport
--  Helped adults maintain their dignity and autonomy by assisting with:
-     personal care duties
-     preparing meals
-     household chores and shopping
 
+
+Career History
+----
+####Becoming Un LTD
+Weight management consultant (Jan 2007 - Dec 2010),
+Nottingham, UK
+
+####Sussex Homecare
+Homecare assistant (Sep 2004 - Sep 2006), Brighton, UK
+
+####NTL:Home
+Custer Retention Specialist (Aug 2003 - Aug 2004), Brighton, UK
+
+####PC World
+Sales Advisor (Jan 1999 - Aug 2003), London, UK
+
+####Currie Motors
+Car Sales Executive (Nov 1996 - Jan 1999)
 
 Education
 ----
 
-###Brunel University
-#####Certificate in Higher Education in Occupational Therapy (Oct 2013 - May 2014)
+####Brunel University
+Certificate in Higher Education in Occupational Therapy (A+) (Oct 2013 - May 2014)
 
-  - Anatomy and physiology
-  - Occupation and well-being
-  - Professional development
 
-Achieved A- grade.
+####Morley College
+Access Diploma in Health and Human Sciences (Distinction) (Sept 2012 - Jun 2013)
 
-###Morley College
-#####Access Diploma in Health and Human Sciences (Sept 2012 - Jun 2013)
+#####LightLife UK LTD
+BTEC Diploma Operating a Weight Management Consultancy (Jan 2007 - Jun 2009)
 
-  - Biochemistry
-  - Anatomy and physiology
-  - Nutritional science
-
-Achieved 54/60 credits at Distinction
+####Portslade Community College
+GSCE English (A*) and GSCE Maths (C) (Sept 2005 - Jun 2006)
 
 Interests
 ----
