@@ -84,6 +84,10 @@ Week four weekend challenge. This was a Ruby project completed after learning ab
 
 I completed this as part of a work trial with a well established document sharing company. I built a simple API using GrapeAPI that has two end-points. I integrated Swagger Docs and used MongoDB with Mongoid for persistence. I started implementing logging but did not test-drive this feature.
 
+> [File Gravity]
+
+This project consumes the Workshare API and calculates the weight of files stored on their system. This app was TDD using Sinatra with Bootstrap on the frontend. Live on Heroku.
+
 Key Skills
 ----
 
@@ -167,6 +171,7 @@ Meet me
 [RPSLS]:https://github.com/ruthearle/rpsls_js
 [Take Away]:https://github.com/ruthearle/takeaway
 [Clock API]:https://github.com/ruthearle/clock
+[File Gravity]:https://github.com/ruthearle/file_gravity
 [Makers Academy]:www.makersacademy.com
 [@ruth_earle]:https://twitter.com/ruth_earle
 [LinkedIn]:uk.linkedin.com/pub/ruth-earle/98/889/8a4/
