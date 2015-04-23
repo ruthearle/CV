@@ -119,7 +119,6 @@ Car Sales Executive (Nov 1996 - Jan 1999)
 
 Education
 ----
-
 ####Brunel University
 Certificate in Higher Education in Occupational Therapy (A+) (Oct 2013 - May 2014)
 
@@ -142,6 +141,7 @@ Interests
 - Reading
 - Meditation
 - Health and fitness
+- Dressmaking
 
 Meet me
 ----
