@@ -51,13 +51,11 @@ backpack so we can venture into the wild.
   - Twitter Bootstrap
   - GitHub Flavoured Markdown
 
-
  ######DevOps
   - Deployment to Heroku
   - Version control with git, GitHub and BitBucket
 
-  
-  ###### Brief use and understanding of:
+  ######Brief use and understanding of:
   - Websockets
 
 #####Complete Projects
