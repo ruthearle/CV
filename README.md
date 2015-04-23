@@ -21,7 +21,7 @@ Academy.
 A twelve week coding boot camp that helps us prepare our coding skills
 backpack so we can venture into the wild.
 
-#####Skills learned and currently being honed:
+#####Skills learned and being honed:
 
 ######Principles
   - Agile values, principles and practice
