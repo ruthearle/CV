@@ -3,6 +3,9 @@ Ruth Earle
 
 I am a junior full-stack web developer based in London. After completing a three month immersive Makers Academy web development course (August 2014 cohort) I feel ready to start my journey into creating great software.
 
+
+My professional background is in healthcare and I have also owned and operated a franchise business, which was not too dissimilar to remote working, only with more responsibility. However, since 2010 I have been a full-time stay at home mother of two children.
+
 Web Development
 ----
 
@@ -18,41 +21,52 @@ Academy.
 A twelve week coding boot camp that helps us prepare our coding skills
 backpack so we can venture into the wild.
 
-#####Skills learned
+#####Skills learned and currently being honed:
 
+######Principles
   - Agile values, principles and practice
   - Object-oriented principles and design
   - Paired programming
-  - Ruby 2
-  - HTML5 & ERB
-  - CSS3
-  - JavaScript, jQuery and Ajax
-  - Websockets
-  - Rails 4
-  - Sinatra
   - Test-driven development
   - Unit testing with RSpec and Jasmine
   - Integration testing with Capybara
   - Behaviour-driven development with Cucumber
-  - FactoryGirl
+  - Testing with Factories (FactoryGirl)
+  
+######Tech
+  - Ruby 2
+  - HTML5 & ERB
+  - CSS3
+  - JavaScript
+  - Rails 4
+  - Sinatra
+  - Grape
+  - NodeJS
   - PostgreSQL
   - DataMapper
-  - Version control with git, GitHub and BitBucket
-  - Twitter Bootstrap
+  - MongoDB
+  - Mongoid
   - User authentication and authorisation with bcrypt and Devise
   - Integration of APIs including Twilio, Stripe, Paperclip, and Mailgun
   - GitHub Flavoured Markdown
+  - Twitter Bootstrap
+
+######DevOps
+  - Version control with git, GitHub and BitBucket
   - Deployment to Heroku
+  
+  ###### Brief use and understanding of:
+  - Websockets
 
 #####Complete Projects
 
 > [Fhellow]
 
-Week ten final project at Makers Academy completed by myself and three other team members. Historically final projects were based on suggestions from students and staff. Fhellow was the first project that was pitched by a client. [Hosted on Heroku](http://fhellow.herokuapp.com/)
+Week ten final project at Makers Academy completed by myself and three other team members. Historically final projects were based on suggestions from students and staff. Fhellow was the first project that was pitched by a client. Built with Ruby on Rails.
 
 > [RPSLS]
 
-Week five weekend challenge to make an online version of Rock, Paper, Scissors, Lizard, Spock. This app was fully test-driven and built using JavaScript, HTML5, and CSS3. [Hosted on Heroku](https://rockpaperscissorslizardspockjs.herokuapp.com/)
+Week five weekend challenge to make an online version of Rock, Paper, Scissors, Lizard, Spock. I built this app using JavaScript, HTML5, and CSS3. 
 
 > [Take Away]
 
