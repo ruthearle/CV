@@ -48,12 +48,14 @@ backpack so we can venture into the wild.
   - Mongoid
   - User authentication and authorisation with bcrypt and Devise
   - Integration of APIs including Twilio, Stripe, Paperclip, and Mailgun
-  - GitHub Flavoured Markdown
   - Twitter Bootstrap
+  - GitHub Flavoured Markdown
+
 
  ######DevOps
-  - Version control with git, GitHub and BitBucket
   - Deployment to Heroku
+  - Version control with git, GitHub and BitBucket
+
   
   ###### Brief use and understanding of:
   - Websockets
