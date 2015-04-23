@@ -51,7 +51,7 @@ backpack so we can venture into the wild.
   - GitHub Flavoured Markdown
   - Twitter Bootstrap
 
-######DevOps
+ ######DevOps
   - Version control with git, GitHub and BitBucket
   - Deployment to Heroku
   
