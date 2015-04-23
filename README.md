@@ -80,6 +80,10 @@ Week five weekend challenge to make an online version of Rock, Paper, Scissors, 
 
 Week four weekend challenge. This was a Ruby project completed after learning about SOLID principled object-orientated design, therefore I focused on single responsibility by creating many classes based on their responsibilities.
 
+> [Clock API]
+
+I completed this as part of a work trial with a well established document sharing company. I built a simple API using GrapeAPI that has two end-points. I integrated Swagger Docs and used MongoDB with Mongoid for persistence. I started implementing logging but did not test-drive this feature.
+
 Key Skills
 ----
 
@@ -162,6 +166,7 @@ Meet me
 [Fhellow]:https://github.com/michballard/fhellow
 [RPSLS]:https://github.com/ruthearle/rpsls_js
 [Take Away]:https://github.com/ruthearle/takeaway
+[Clock API]:https://github.com/ruthearle/clock
 [Makers Academy]:www.makersacademy.com
 [@ruth_earle]:https://twitter.com/ruth_earle
 [LinkedIn]:uk.linkedin.com/pub/ruth-earle/98/889/8a4/
