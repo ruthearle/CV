@@ -134,7 +134,7 @@ Certificate in Higher Education in Occupational Therapy (A+) (Oct 2013 - May 201
 ####Morley College
 Access Diploma in Health and Human Sciences (Distinction) (Sept 2012 - Jun 2013)
 
-#####LightLife UK LTD
+####LightLife UK LTD
 BTEC Diploma Operating a Weight Management Consultancy (Jan 2007 - Jun 2009)
 
 ####Portslade Community College
