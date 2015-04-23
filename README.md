@@ -26,12 +26,13 @@ backpack so we can venture into the wild.
 ######Principles
   - Agile values, principles and practice
   - Object-oriented principles and design
+  - Design patterns
   - Paired programming
   - Test-driven development
-  - Unit testing with RSpec and Jasmine
-  - Integration testing with Capybara
-  - Behaviour-driven development with Cucumber
-  - Testing with Factories (FactoryGirl)
+  - Behaviour-driven development
+  - Unit testing
+  - Integration testing
+  - Testing with Factories
   
 ######Tech
   - Ruby 2
@@ -46,6 +47,11 @@ backpack so we can venture into the wild.
   - DataMapper
   - MongoDB
   - Mongoid
+  - Rspec
+  - Jasmine
+  - Capybara
+  - Cucumber
+  - Factory Girl
   - User authentication and authorisation with bcrypt and Devise
   - Integration of APIs including Twilio, Stripe, Paperclip, and Mailgun
   - Twitter Bootstrap
