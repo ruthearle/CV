@@ -174,4 +174,4 @@ Meet me
 [File Gravity]:https://github.com/ruthearle/file_gravity
 [Makers Academy]:www.makersacademy.com
 [@ruth_earle]:https://twitter.com/ruth_earle
-[LinkedIn]:https://uk.linkedin.com/pub/ruth-earle/98/889/8a4
+[LinkedIn]:https://www.linkedin.com/profile/view?id=348547516
